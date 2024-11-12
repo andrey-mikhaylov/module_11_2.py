@@ -1,6 +1,7 @@
 # Задание
 module_11_2.txt
 # Команды
+??? create venv
 <img src="Annotation 2024-11-12 132353.png"/>
 <img src="Annotation 2024-11-12 132457.png"/>
 # Дерево
