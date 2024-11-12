@@ -8,6 +8,3 @@ module_11_2.txt
 <img src="Annotation 2024-11-12 130646.png"/>
 # Результат работы
 <img src="Annotation 2024-11-12 132810.png"/>
-
-
-
