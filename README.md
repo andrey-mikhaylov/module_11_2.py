@@ -1,5 +1,5 @@
 # Задание
-[GitHub Pages](https://pages.github.com/)
+[Открыть](module_11_2.txt)
 
 # Команды
 <img src="Annotation 2024-11-12 230655.png"/>
